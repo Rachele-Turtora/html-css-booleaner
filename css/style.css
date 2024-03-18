@@ -3,3 +3,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.bg{
+    background-color: lightblue;
+    background-image: url("../img/pattern.png");
+    height: 200px;
+}
+
+.logo{
+    width: 250px;
+}
