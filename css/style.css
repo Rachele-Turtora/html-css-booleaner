@@ -11,5 +11,22 @@
 }
 
 .logo{
-    width: 250px;
+    width: 200px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+span{
+    color: gray;
+    font-size: 20px;
+}
+
+.booleaner{
+    color: rgb(3, 192, 255);
+}
+
+p{
+    font-size: 14px;
 }
