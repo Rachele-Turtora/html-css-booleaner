@@ -16,9 +16,10 @@
 
 h1{
     font-size: 45px;
+    margin-top: 15px;
 }
 
-span{
+.subtitle{
     color: gray;
     font-size: 20px;
 }
@@ -27,6 +28,18 @@ span{
     color: rgb(3, 192, 255);
 }
 
-p{
+section{
+    margin: 15px 0;
+}
+
+.caption{
     font-size: 14px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.highlighted{
+    background-color: yellow;
 }
