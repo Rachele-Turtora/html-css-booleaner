@@ -43,3 +43,25 @@ p{
 .highlighted{
     background-color: yellow;
 }
+
+thead{
+    background-color: blue;
+}
+
+th{
+    color: white;
+    text-align: left;
+}
+
+.bg-lightblue{
+    background-color: lightblue;
+}
+
+.width{
+    width: 60%;
+    padding: 0;
+}
+
+td{
+    padding: 10px 0;
+}
