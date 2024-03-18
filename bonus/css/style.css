@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg{
+    background-color: rgb(18, 99, 249);
+    background-image: url("../img/pattern.png");
+    height: 150px;
+}
+
+.logo{
+    width: 250px;
+    height: auto;
+    margin-top: 70px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+.subtitle{
+    color: gray;
+    font-size: 20px;
+}
+
+.booleaner{
+    color: rgb(3, 192, 255);
+}
+
+.data{
+    font-size: 18px;
+}
+
+.section{
+    margin: 20px 0;
+}
+
+img{
+    height: 400px;
+}
+
+.caption{
+    font-size: 14px;
+}
+
+p, li{
+    font-size: 20px;
+}
+
+ul{
+    padding-left: 16px;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: blue;
+}
+
+th{
+    color: white;
+    text-align: left;
+}
+
+.bg-lightblue{
+    background-color: lightblue;
+}
+
+.width{
+    width: 60%;
+    padding: 0;
+}
+
+td{
+    padding: 10px 0;
+}
+
+.image{
+    background-size: cover;
+    height: 250px;
+    width: 300px;
+    margin: 10px 0;
+}
+
+.bg1{
+    background-image: url("../img/monitor.jpg");
+}
+
+.bg2{
+    background-image: url("../img/graph.jpg");
+}
+
+h2{
+    color: white;
+    padding: 10px 0 0 10px;
+}
+
+h3{
+    color: gray;
+}
