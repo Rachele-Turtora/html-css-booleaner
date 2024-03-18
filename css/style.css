@@ -5,17 +5,19 @@
 }
 
 .bg{
-    background-color: lightblue;
+    background-color: rgb(18, 99, 249);
     background-image: url("../img/pattern.png");
-    height: 200px;
+    height: 150px;
 }
 
 .logo{
-    width: 200px;
+    width: 250px;
+    height: auto;
+    margin-top: 70px;
 }
 
 h1{
-    font-size: 45px;
+    font-size: 50px;
     margin-top: 15px;
 }
 
@@ -29,7 +31,11 @@ h1{
 }
 
 .section{
-    margin: 15px 0;
+    margin: 20px 0;
+}
+
+img{
+    height: 450px;
 }
 
 .caption{
