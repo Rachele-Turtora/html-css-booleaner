@@ -30,6 +30,10 @@ h1{
     color: rgb(3, 192, 255);
 }
 
+.data{
+    font-size: 18px;
+}
+
 .section{
     margin: 20px 0;
 }
@@ -42,12 +46,20 @@ img{
     font-size: 14px;
 }
 
-p{
+p, li{
     font-size: 20px;
+}
+
+ul{
+    padding-left: 16px;
 }
 
 .highlighted{
     background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
 }
 
 thead{
